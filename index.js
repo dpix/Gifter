@@ -5,7 +5,7 @@ var app = express()
 app.use(express.static('public'));
 
 app.post('/signup', function(req, res){
-	var body = '';
+	var body = '\r\n';
 	filePath = __dirname + '/data/emails.txt';
 	req.on('data', function(data) {
 		body += data;
@@ -20,7 +20,7 @@ app.post('/signup', function(req, res){
 	});
 })
 
-var server = app.listen(3000, function () {
+var server = app.listen(80, function () {
 
 	var host = server.address().address
 	var port = server.address().port
