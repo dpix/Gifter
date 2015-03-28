@@ -63,9 +63,9 @@
 		</div>
 
 
-		<div class="container">
-			<div class="row" data-bind="foreach: upcomingBirthdayFriends">
-				<div class="col-md-2">
+		<div class="container" data-bind="foreach: upcomingBirthdayFriends">
+			<div class="row">
+				<div class="col-md-12">
 			  <img class="img-circle media-object" data-bind="attr: {src: imageUrl}" ></img>
                 <span class="media-body" data-bind="text: name" ></span>
                 <span>Birthday is <span data-bind="text: birthdayDistanceInDays" ></span> days away</span>
