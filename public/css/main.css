@@ -6,9 +6,15 @@ h2{
 	color: #FFFFFF !important
 }
 
+.icon{
+	background-image: url(/images/logo.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
 .banner{
-	  background-image: url(/images/presents1.jpg);
-	  background-size: cover;
+	background-image: url(/images/presents1.jpg);
+	background-size: cover;
 }
 
 .content{
