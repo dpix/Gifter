@@ -18,4 +18,6 @@ h2{
 .form{
 	background-image: url(/images/presents2.jpg);
 	background-size: cover;
+
+	margin-bottom: 0px;
 }
