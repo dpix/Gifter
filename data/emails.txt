@@ -1,1 +1,1 @@
-email=dan.j.pick%40gmail.com
+email=dan.j.pick%40gmail.comemail=somethingelse%40other.comemail=somethingelse%40other.com
