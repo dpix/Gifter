@@ -1,0 +1,21 @@
+h2{
+	color: #009a8a
+}
+
+.jumbotron{
+	color: #FFFFFF !important
+}
+
+.banner{
+	  background-image: url(/images/presents1.jpg);
+	  background-size: cover;
+}
+
+.content{
+	height: 30%
+}
+
+.form{
+	background-image: url(/images/presents2.jpg);
+	background-size: cover;
+}
