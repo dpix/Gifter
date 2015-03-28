@@ -1,9 +1,9 @@
 h2{
-	color: #009a8a
+	color: #009a8a;
 }
 
 .jumbotron{
-	color: #FFFFFF !important
+	color: #FFFFFF !important;
 }
 
 .icon{
@@ -13,7 +13,7 @@ h2{
 }
 
 .banner{
-	background-image: url(/images/presents1.jpg);
+	background-color: #009a8a;
 	background-size: cover;
 }
 
@@ -22,7 +22,7 @@ h2{
 }
 
 .form{
-	background-image: url(/images/presents2.jpg);
+	background-color: #009a8a;
 	background-size: cover;
 
 	margin-bottom: 0px;
