@@ -15,35 +15,27 @@ h2{
 	color: #FFFFFF !important;
 }
 
-.header{
-	width: 400px;
-	margin-left: auto;
-	margin-right: auto;
-}
-
 .icon{
 	background-image: url(/images/logo.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 	height: 100px;
 	width: 100px;
-	float: left;
-}
-
-.title{
-	float: left;
-	margin-top: 16px;
-	font-weight: 100;
+<<<<<<< Updated upstream
 }
 
 @media screen and (max-width: 768px){
 	.icon, .icon-buffer{
+		height: 125px;
 	}
 }
 
 @media screen and (min-width: 769px){
 	.icon, .icon-buffer {
+		height: 193px;
 	}
+=======
+>>>>>>> Stashed changes
 }
 
 .banner{
@@ -60,22 +52,4 @@ h2{
 	background-size: cover;
 
 	margin-bottom: 0px;
-}
-
-.img{
-	height: 100px;
-	width: 100px;
-	  margin-left: auto;
-	  margin-right: auto;
-  background-repeat: round;
-}
-
-.facebook{
-	background-image: url('/images/facebook.png')
-}
-.friend{
-	background-image: url('/images/friend.png')
-}
-.gift{
-	background-image: url('/images/gift.png')
 }
